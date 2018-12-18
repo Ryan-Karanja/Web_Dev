@@ -75,9 +75,9 @@ try:
             if PHRASE_FIRST:
                 question, answer = answer, question
                 
-                print(question)
-                
-                input("> ")
-                print(f"Answer: {answer}\n\n")
+            print(question)
+            
+            input("> ")
+            print(f"Answer: {answer}\n\n")
 except EOFError:
     print("\nBye")
