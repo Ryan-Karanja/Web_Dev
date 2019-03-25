@@ -1,5 +1,4 @@
 #!/home/ubuntu/workspace/myenv/bin/python3.6
-
 # -*- coding: utf-8 -*-
 import re
 import sys
